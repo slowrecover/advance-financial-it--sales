@@ -168,9 +168,9 @@
 | 文件                  | 作用                   |
 | ------------------- | -------------------- |
 | `SKILL.md`          | 主指令，定义分析流程、判断原则和边界   |
-| `stage-playbook.md` | 各项目阶段的判断依据和推进动作，按需加载 |
-| `openai.yaml`       | Skill 元数据配置          |
-| `icon.svg`          | Skill 图标             |
+| `references/stage-playbook.md` | 各项目阶段的判断依据和推进动作，按需加载 |
+| `agents/openai.yaml`       | Skill 元数据配置          |
+| `assets/icon.svg`          | Skill 图标             |
 
 ## 方法来源
 
